@@ -1,0 +1,24 @@
+{
+  "name": "app-athenryac.com",
+  "version": "0.0.0",
+  "description": "Athenry AC Web App",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alanburke/appathenryac.git"
+  },
+  "author": "Alan Burke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanburke/appathenryac/issues"
+  },
+  "homepage": "https://github.com/alanburke/appathenryac",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "backbone": "^1.2.0",
+    "jquery": "^2.1.4"
+  }
+}
